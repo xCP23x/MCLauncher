@@ -1,5 +1,5 @@
 @echo off
-REM Written by Chris Price (xCP23x), 2010-2012
+REM Written by Chris Price (xCP23x), 2010-2013
 REM LICENSE: Do what you want with this, as long as you a) Don't make any profit from it, monetary or otherwise (NO adf.ly links or similar) and b) Give credit where credit is due - don't remove or edit this message, and link to https://github.com/xCP23x/MCLauncher/blob/master/Minecraft.cmd, where it is hosted.
 REM Just to confirm: You CAN edit and redistribute this, just make sure to stick to the above license.
 
